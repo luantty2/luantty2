@@ -1,15 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name:  WEI MAO
+title: WEI MAO
+description: WEI MAO portfolio and blog
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - contemporary art
+  - wei mao
+  - portfolio
+  - art
+email: luantty2@gmail.com
+disqus_username:
 show_hero: true
 
 
@@ -24,17 +24,17 @@ medium_username: medium_username
 
 
 # Theme Settings
-themeColor: '#ff0a16'
+themeColor: '#1855f0'  #对比色 进度条 链接 主页文章进入按钮 默认红色
 primaryDark: '#141414'
-accentDark: '#ffffff'
-lightGray: '#f2f2f2'
-texts: '#333333'
+accentDark: '#f2f2f2' #header及 主页字体颜色 边栏颜色
+lightGray: '#F2F2F2'
+texts: '#333333' #内页文字
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
