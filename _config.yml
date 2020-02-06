@@ -14,20 +14,22 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Works
+    url: /tags/#work
   - title: About
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  # - title: Feed
+  #   url: /feed.xml
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: luantty2
 # facebook_username: facebook_username
 # twitter_username: twitter_username
-instagram_username: instagram_username
+instagram_username: luantty2
 # linkedin_username: linkedin_username
 # medium_username: medium_username
 

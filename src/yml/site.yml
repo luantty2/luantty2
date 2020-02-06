@@ -13,9 +13,11 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Works
+    url: /tags/#work
   - title: About
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  # - title: Feed
+  #   url: /feed.xml
