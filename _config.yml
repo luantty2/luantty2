@@ -1,6 +1,6 @@
 # Site Settings
-name:  WEI MAO
-title: WEI MAO
+name:  WEI MAO | 茅炜
+title: WEI MAO | 茅炜
 description: WEI MAO portfolio and blog
 tags:
   - blog
@@ -25,11 +25,11 @@ menu:
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
+# facebook_username: facebook_username
+# twitter_username: twitter_username
 instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Posts Settings

@@ -1,4 +1,4 @@
-@mixin mainFont($weight: 700) {
+@mixin mainFont($weight: 400) {
   font-family: "Cormorant Garamond", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: $weight;
   font-style: normal;
